@@ -22,15 +22,16 @@
 
 .data_table{
     background-color: linear-gradient(to bottom, #1d2127, #1d2127);
-    box-shadow: 1px 3px 5px #66cc85;;
-    border-radius: 5px;
-    width:1850px ;
+    box-shadow: 1px 3px 10px #66cc85;;
+    border-radius: 10px;
+    width: 1820px ;
     height:auto;
     padding: 5px;
 }
 .data_table .btn{
+
     padding: 5px 10px;
-    margin: 10px 3px 10px 0;
+    margin: 10px 3px 10px 10px;
 }
 
 i{
@@ -53,8 +54,8 @@ i{
 #Copy1{
     font-size:smaller;
     font-style: italic;
-    background-color: #2a2c2b;
-    color: #fff;
+    background-color: #16c56d;
+    color: #d1c3c3;
     width: 200px;
     justify-content: center;
     align-items: center;
