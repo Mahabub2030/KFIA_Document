@@ -22,9 +22,11 @@
 
 .data_table{
     background-color: linear-gradient(to bottom, #1d2127, #1d2127);
-    margin: bottom 50px;;
     box-shadow: 1px 3px 5px #66cc85;;
     border-radius: 5px;
+    width:1850px ;
+    height:auto;
+    padding: 5px;
 }
 .data_table .btn{
     padding: 5px 10px;
